@@ -14,19 +14,19 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "4f35a738f7fd1311708166f698eb3a6c"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "1944919"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "5541722708:AAGBYrKDTF9DqyBhxI-l5K4azjCKlr-pNEg"
         },
         "BOT_UN": {
             "description": "Your bot username here. Do not use '@'.",
-            "value": ""
+            "value": "Compressiontestbot"
         }
     },
     "buildpacks": [
